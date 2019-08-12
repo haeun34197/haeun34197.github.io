@@ -278,7 +278,7 @@ canvas{
 }
 
 #slide-1 h1 {
-	padding-top: 130px;
+	padding-top: 250px;
 }
 
 @media (max-width: 991px) {
@@ -312,7 +312,6 @@ canvas{
 	
 	#home-row-2 .col-12 {
 		height: 232px;
-		padding-top: 30px;
 	}
 	
 	#home-row-2 .col-12 .home-hover {
